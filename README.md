@@ -24,3 +24,13 @@ I have used onshape for this tutorial. The instructions on the website helped me
 ![App Screenshot](Screenshot%202025-11-26%20204416.png)
 All of the components put together look like this!
 
+## BOM
+
+- 1x 3d printed case
+- 1x Seeed XIAO RP2040 microcontroller
+- 5x MX-Style switches
+- 4x LEDs
+- 1x 0.91 inch OLED display
+- 5x DSA keycaps
+- 4x 3x16mm screws
+- 4x 3x5mx4mm heatset inserts
